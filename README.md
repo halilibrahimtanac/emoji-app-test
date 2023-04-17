@@ -1,18 +1,4 @@
 Emoji Search
 ---
 
-Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
-
-
-
-Install
----
-
-`npm install`
-
-
-
-Usage
----
-
-`npm start`
+![test](https://user-images.githubusercontent.com/82182322/232607238-3a194389-8a9d-45cc-bade-9d12b0fba753.jpg)
